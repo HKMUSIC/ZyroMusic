@@ -14,42 +14,42 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "22792918",
+        "value":"22855793",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "ff10095d2bb96d43d6eb7a7d9fc85f81",
+        "value": "4e1b6f9bb8598ba19e44cffb4fbf38c1",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
-        "value": "",
+        "description": "7727663025:AAFW-TNT-SD5erGtPe6SmixopOZ5KBKKbu0",
+      "value": "7727663025:AAFW-TNT-SD5erGtPe6SmixopOZ5KBKKbu0",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Gojo Musicbot:Gojomusicbot@gojomusic.mq97jfy.mongodb.net/?retryWrites=true&w=majority appName=Gojo Music",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "7553434931",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "",
+        "value": "BQFcwHEAafRjUxwauDD4n75EAxVXaGybUFf8FgARLHbGfjim5nFt2swqYfuJ3BYd726nQBFILxIu5u1SZ7L2nkQP-9_aiK1vWZyTzzT1n8N1wu-Pc1fUJfN_oJ2TFSc47aE_9e2bubG3tEDyjhSNP90myLVtg0jK7uzjqLX_OflRUCjoLiI5aZM6HCxmRRyWNoUbNs-IFhzdRIgRpKt1r2HLnMDE987KlonlX3E7peKfKYI6MQGfN87-_gaViJMIOEJ_Sw_BldjSVgu5trwDEBUK5EaniLI5hv81QtO6rHiryfNaMqzBJ-_h3WxVZBbKUO3ovDppI8iQf46oOfboZF6agConAgAAAAHK-6LyAA",
         "required": true
       },
       "DB_NAME": {
         "description": "Your DB_NAME",
-        "value": "none",
+        "value": "GOJOMUSIC",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002155818429",
+        "value": "-1002566878364",
         "required": true
       }
     },
