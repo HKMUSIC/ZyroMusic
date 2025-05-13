@@ -9,29 +9,29 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = getenv("API_ID", "")
-API_HASH = getenv("API_HASH", "")
+API_ID = getenv("22855793", "")
+API_HASH = getenv("4e1b6f9bb8598ba19e44cffb4fbf38c1", "")
 
 EVAL = list(map(int, getenv("EVAL", "0000000 0000000").split()))
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("7727663025:AAFW-TNT-SD5erGtPe6SmixopOZ5KBKKbu0", "")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "")
+BOT_USERNAME = getenv("@II_YOUR_GOJO_bot" , "")
 # --------------------------------------------------------
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
-DB_NAME = getenv("DB_NAME", "Zyro")
+MONGO_DB_URI = getenv("mongodb+srv://Gojo Musicbot:Gojomusicbot@gojomusic.mq97jfy.mongodb.net/?retryWrites=true&w=majority appName=Gojo Music", "")
+DB_NAME = getenv("GOJOMUSIC", "Zyro")
 #---------------------------------------------------------------
 # ----------------------------------------------------------------
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002155818429))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002566878364))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7638720582))
+OWNER_ID = int(getenv("OWNER_ID", 7553434931))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # ----------------------------------------------------------------
